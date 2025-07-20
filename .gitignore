@@ -1,0 +1,9 @@
+.thumbs/
+deps/
+test/
+.collect.mapping.json
+*.meta
+*.png
+*.psd
+*test*.usda
+maxpayne.usda
